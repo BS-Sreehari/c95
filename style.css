@@ -1,0 +1,21 @@
+body {
+    text-align: center;
+    background-image: url("background.png");
+}
+body h1 {
+    color: yellowgreen;
+}
+
+#user_name {
+    width: 300px;
+    height: 20px;
+}
+#login {
+    width: 300px;
+    background-color: green;
+    color: blue;
+}
+
+#logout{
+    text-align: left;
+}
